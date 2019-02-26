@@ -1,0 +1,8 @@
+0         |talnet sjprfoapp01 22         
+0         |ping www.team03.ehealthinsurance.com
+0         |a:                            
+0         |c:                            
+8         |ipconfig                      
+1         |cmd                           
+1         |b:                            
+0         |d:                            
